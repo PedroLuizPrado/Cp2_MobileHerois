@@ -6,6 +6,7 @@
     <shadowColor android:color="#1A30B6" />
     <shadowDx android:offset="0"/>
     <shadowDy android:offset="3"/>
-
+    <corners android:radius="16dp"/>
+    <stroke android:width="2dp" android:color="#A88009"/>
     <shadowRadius android:radius="5dp"/>
 </shape>
